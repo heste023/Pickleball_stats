@@ -6,5 +6,5 @@ Pickleball analytics is still in it's infancy stage - as this dataset grows,
 it will be able to be used by enthusiasts to better understand winning strategies
 for the game. 
 
-To-do: 
+To-do:\ 
 -Variable explanations
